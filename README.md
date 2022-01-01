@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdulrahman14Salah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdulrahman
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning - back-end
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 How to reach me - abdulrahman.salah.dev@gmail.com
 
 <!---
 Abdulrahman14Salah/Abdulrahman14Salah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
