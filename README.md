@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrahman
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning - back-end
+- 🌱 I’m currently learning - WordPress Development
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me - abdulrahman.salah.dev@gmail.com
 
