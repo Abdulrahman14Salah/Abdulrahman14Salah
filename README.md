@@ -14,7 +14,7 @@
 - Git.
 - SiteGround.
 
-📫 How to reach me - abdulrahman.salah.dev@gmail.com
+
 
 <h1 align="center">👩🏻‍💻 Hi, I’m Abdulrahman</h1> 
 <h2 align="center">Full-Stack (PHP) & WordPress Developer</h2>  
@@ -41,5 +41,6 @@
 <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="30"/>
 </a>
 </p>
-
+ 
+📫 How to reach me - abdulrahman.salah.dev@gmail.com
 
