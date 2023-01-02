@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Abdulrahman - Front-End developer
+- 👋 Hi, I’m Abdulrahman - Full-Stack & WordPress Developer
 - 💞️ I’m interested in web development
-- 🌱 I’m currently learning - Back-End Developer
-- 👀 I’m looking to collaborate on front-end projects
-- 📫 How to reach me - abdulrahman.salah.dev@gmail.com
 
+  ##################################
+  # Tools and programming language #
+  ##################################
+- Great in CSS/HTML/CSS3/HTML5
+- PHP & MYSQL.
+- BootStrap.
+- SASS.
+- Responsive mobile-ready designs.
+- Javascript/TypeScript.
+- JSON/AJAX.
+- Git.
+- SiteGround.
+
+📫 How to reach me - abdulrahman.salah.dev@gmail.com
