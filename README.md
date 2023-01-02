@@ -2,7 +2,7 @@
 - 💞️ I’m interested in web development
 
 
- ##Tools and programming language 
+ # Tools and programming language 
 
 - Great in CSS/HTML/CSS3/HTML5
 - PHP & MYSQL.
