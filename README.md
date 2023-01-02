@@ -1,25 +1,6 @@
-- 👋 Hi, I’m Abdulrahman - Full-Stack & WordPress Developer
-- 💞️ I’m interested in web development
-
-
- # Tools and programming language 
-
-- Great in CSS/HTML/CSS3/HTML5
-- PHP & MYSQL.
-- BootStrap.
-- SASS.
-- Responsive mobile-ready designs.
-- Javascript/TypeScript.
-- JSON/AJAX.
-- Git.
-- SiteGround.
-
-
-
 <h1 align="center">👩🏻‍💻 Hi, I’m Abdulrahman</h1> 
 <h2 align="center">Full-Stack (PHP) & WordPress Developer</h2>  
    
- 
 ## Languages & Tools I Use:</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -42,5 +23,5 @@
 </a>
 </p>
  
-📫 How to reach me - abdulrahman.salah.dev@gmail.com
+## How to reach me:</h3> 📫 abdulrahman.salah.dev@gmail.com
 
