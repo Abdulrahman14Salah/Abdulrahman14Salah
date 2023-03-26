@@ -24,5 +24,5 @@
 </a>
 </p>
  
-## How to reach me:</h3> 📫 abdulrahman.salah.dev@gmail.com
+## How to reach me:</h3> 📫 me@a-salah.dev
 
