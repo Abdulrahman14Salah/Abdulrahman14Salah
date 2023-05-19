@@ -1,5 +1,6 @@
 <h1 align="center">👩🏻‍💻 Hi, I’m Abdulrahman</h1> 
-<h2 align="center">Full-Stack (PHP) & WordPress Developer</h2>  
+<h2 align="center">Full-Stack (PHP) & WordPress Developer</h2>
+<p align="center">I'm a WordPress Developer experinced in building websites for all types of companies, organizations and public figures, I'm ready to help you step-by-step till making your website online.</p>
    
 ## Languages & Tools I Use:</h3>
 <p>
